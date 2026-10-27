@@ -1,6 +1,6 @@
 # Randy Kawka
 
-**Software engineering | Full-stack web development | Python | Applied automation**
+**Full-stack software projects | TypeScript, React, Python, FastAPI | Automation, creative tools & applied AI | Open to software engineering roles**
 
 I build practical software systems around typed workflows, reliable state, human review, and clear failure handling. My projects range from full-stack applications and browser extensions to research engines and creative desktop tools. I use AI-assisted development where useful and document what the code actually proves.
 
