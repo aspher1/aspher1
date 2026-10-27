@@ -6,6 +6,8 @@ I build practical software systems around typed workflows, reliable state, human
 
 **Seeking junior software engineering, full-stack, frontend, and applied automation opportunities.**
 
+**Role-specific project evidence:** [Frontend / product](https://github.com/aspher1/software-engineering-portfolio/blob/main/jobs/frontend-software-engineer.md) · [Full-stack / automation](https://github.com/aspher1/software-engineering-portfolio/blob/main/jobs/full-stack-automation.md) · [Python / reliability](https://github.com/aspher1/software-engineering-portfolio/blob/main/jobs/python-reliability.md) · [Technical evidence matrix](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/technical-evidence-matrix.md)
+
 **[Explore the engineering portfolio](https://github.com/aspher1/software-engineering-portfolio)** · [Public source projects](#public-source-projects) · [Private-source case studies](#private-source-engineering-case-studies) · [Engineering approach](#engineering-approach)
 
 ## Where to start
@@ -13,6 +15,15 @@ I build practical software systems around typed workflows, reliable state, human
 - **Review application architecture and tests:** [PortalOps AI](https://github.com/aspher1/Portalops) ([architecture](https://github.com/aspher1/Portalops/blob/main/docs/ARCHITECTURE.md) · [CI workflow](https://github.com/aspher1/Portalops/actions/workflows/ci.yml)).
 - **Review Python state and reliability:** [rhbot](https://github.com/aspher1/robinhood-bot) ([architecture](https://github.com/aspher1/robinhood-bot/blob/main/ARCHITECTURE.md) · [CI workflow](https://github.com/aspher1/robinhood-bot/actions/workflows/ci.yml)).
 - **Review interface and desktop engineering:** [Rainlight animation editor case study](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/anime-director-studio.md), with a real local screenshot and a candid verification summary.
+
+## Development interface previews
+
+| Acre real-estate workspace | QuarterPulse synthetic research workspace |
+| --- | --- |
+| [![Acre local agent workspace, with sample buyer data](https://raw.githubusercontent.com/aspher1/software-engineering-portfolio/main/assets/previews/acre-workspace-preview.png)](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/acre.md) | [![QuarterPulse local paper-simulation dashboard on a synthetic feed](https://raw.githubusercontent.com/aspher1/software-engineering-portfolio/main/assets/previews/quarter-synthetic-workspace.png)](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/quarterpulse.md) |
+| [Acre case study](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/acre.md) · Local UI with sample buyers | [QuarterPulse case study](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/quarterpulse.md) · Fictional market feed and paper simulation |
+
+These are actual local application captures. They do not imply a deployed service, live trading or production integration.
 
 ## Public source projects
 
