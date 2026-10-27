@@ -1,32 +1,44 @@
 # Randy Kawka
 
-**Software engineering · TypeScript / React · Python · Applied automation**
+**Software engineering | Full-stack web development | Python | Applied automation**
 
-I build practical software prototypes that turn complex workflows into usable tools. My work spans full-stack web apps, human-supervised automation, desktop creative software and reproducible data research. I focus on readable interfaces, explicit failure states, test coverage and honest technical documentation.
+I build practical software systems around typed workflows, reliable state, human review, and clear failure handling. My projects range from full-stack applications and browser extensions to research engines and creative desktop tools. I use AI-assisted development where useful and document what the code actually proves.
 
-**Open to junior software engineering, full-stack, frontend and applied AI/automation opportunities.**
+**Seeking junior software engineering, full-stack, frontend, and applied automation opportunities.**
 
-[**Explore my engineering portfolio**](https://github.com/aspher1/vibe-coding-portfolio) · [**View the Rainlight editor case study**](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/anime-director-studio.md)
+**[Explore the engineering portfolio](https://github.com/aspher1/vibe-coding-portfolio)** · [Public source projects](#public-source-projects) · [Private-source case studies](#private-source-engineering-case-studies) · [Engineering approach](#engineering-approach)
 
-## Selected engineering projects
+## Where to start
 
-| Project | What I built or explored | Stack and evidence |
-| --- | --- | --- |
-| **[PortalOps AI](https://github.com/aspher1/Portalops)** | Human-supervised workflow prototype with approval gates, tenant-aware boundaries, execution evidence and synthetic payer portals | Next.js, TypeScript, Zod, Vitest · [Architecture](https://github.com/aspher1/Portalops/blob/main/docs/ARCHITECTURE.md) · [CI](https://github.com/aspher1/Portalops/actions/workflows/ci.yml) |
-| **[CreditAsk](https://github.com/aspher1/Credit-task)** | Inspection intake, draft-letter review and test-payment workflow with explicit human approval | Next.js, React, TypeScript, Auth.js, Stripe test mode · [Tests](https://github.com/aspher1/Credit-task/tree/main/tests) |
-| **[rhbot](https://github.com/aspher1/robinhood-bot)** | Paper-only BTC/ETH strategy comparison with risk limits, SQLite audit records and offline verification | Python, SQLite, pytest · [Architecture](https://github.com/aspher1/robinhood-bot/blob/main/ARCHITECTURE.md) · [CI](https://github.com/aspher1/robinhood-bot/actions/workflows/ci.yml) |
-| **[Jarvis Chart HUD](https://github.com/aspher1/Jarvis-main)** | Chrome extension study using host adapters, Shadow DOM overlays, data validation and graceful fallback behavior | JavaScript, Chrome Manifest V3 · [Validation](https://github.com/aspher1/Jarvis-main/tree/main/tests) |
-| **[Anime Director Studio / Rainlight v8](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/anime-director-studio.md)** | Private-source anime editing workspace with 24 fps shot timing, drawing and exposure tools, Electron shell and production-review workflows | React, TypeScript, Vite, Electron, Playwright · Public case study and screenshot |
+- **Review application architecture and tests:** [PortalOps AI](https://github.com/aspher1/Portalops) ([architecture](https://github.com/aspher1/Portalops/blob/main/docs/ARCHITECTURE.md) · [CI workflow](https://github.com/aspher1/Portalops/actions/workflows/ci.yml)).
+- **Review Python state and reliability:** [rhbot](https://github.com/aspher1/robinhood-bot) ([architecture](https://github.com/aspher1/robinhood-bot/blob/main/ARCHITECTURE.md) · [CI workflow](https://github.com/aspher1/robinhood-bot/actions/workflows/ci.yml)).
+- **Review interface and desktop engineering:** [Rainlight animation editor case study](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/anime-director-studio.md), with a real local screenshot and a candid verification summary.
 
-## Technical focus
+## Public source projects
 
-- **Applications:** React, Next.js, TypeScript, JavaScript, API routes, Chrome extensions and Electron.
-- **Automation and data:** Python, SQLite, PostgreSQL schema/RLS design, deterministic workflow engines and external API prototypes.
-- **Engineering practice:** Git/GitHub, CI, unit tests, pytest, Vitest, browser QA, validation boundaries, operator approval and fail-safe behavior.
-- **Applied AI:** Assisted triage and creative-production experiments with clearly separated mock, offline and external-provider paths.
+- **[PortalOps AI](https://github.com/aspher1/Portalops)** · Next.js, TypeScript, Zod, Vitest. Human-supervised workflow prototype with approval gates, synthetic payer portals, tenant-aware boundaries, and execution evidence.
+- **[CreditAsk](https://github.com/aspher1/Credit-task)** · Next.js, React, TypeScript, Auth.js, Stripe test mode. Guided intake, reviewable letter drafts, and test-payment workflow. [Inspect tests](https://github.com/aspher1/Credit-task/tree/main/tests).
+- **[rhbot](https://github.com/aspher1/robinhood-bot)** · Python, SQLite, pytest. Paper-only BTC/ETH strategy comparison with risk rules, modeled fees, audit records, and offline checks.
+- **[Jarvis Chart HUD](https://github.com/aspher1/Jarvis-main)** · JavaScript, Chrome Manifest V3, Shadow DOM. Browser overlay experiment with host adapters, input validation, and mock-data fallbacks. [Inspect validation](https://github.com/aspher1/Jarvis-main/tree/main/tests).
 
-## How to review my work
+## Private-source engineering case studies
 
-The [portfolio index](https://github.com/aspher1/vibe-coding-portfolio) links to source, architecture notes, tests and project status. These projects are primarily prototypes or research, not deployed customer systems. Some work uses AI-assisted development; I distinguish implemented behavior from planned features and independently unverified outcomes.
+These **public writeups** explain architecture, implementation evidence, open risks, and verification status. They can be read without access to private repositories.
 
-For the private Anime Director Studio source, I can arrange authorized access or a code walkthrough during an interview process.
+- **[Anime Director Studio / Rainlight v8](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/anime-director-studio.md)** · React, TypeScript, Vite, Electron. Frame-based animation editing, exposure controls, and production review. Includes a local application screenshot and recorded checks.
+- **[Acre: Real Estate Decision Intelligence](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/acre.md)** · Next.js, TypeScript, RentCast, FHFA, Clerk, Drizzle. Provider-attributed property search, buyer compare and cost logic, and buyer/seller workspace prototypes.
+- **[QuarterPulse Research Engine](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/quarterpulse.md)** · Python. Prediction-market discovery, paper execution, replay, and risk/accounting research. No verified live trading results.
+- **[LoopLab Video Studio](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/looplab.md)** · React, TypeScript, Cloudflare D1/R2. Asynchronous media-production workflow and provider orchestration; end-to-end paid-provider verification is pending.
+- **More architecture studies:** [Matchup Lab](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/matchup-lab.md) (probability/simulation) and [RelayOps](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/relayops.md) (multi-tenant workflow and data access).
+
+**Access for interviewers:** The case studies are public; the underlying source for these projects is private or undergoing review. I can discuss implementation decisions, show sanitized artifacts, or arrange authorized code access or a walkthrough where available. Please use the contact details supplied with my job application.
+
+## Engineering approach
+
+- **Web and interfaces:** TypeScript, JavaScript, React, Next.js, Electron, browser extensions, responsive UI.
+- **Backends and data:** Python, API handlers, SQLite, PostgreSQL, typed schemas, provider integrations, explicit authorization boundaries.
+- **Verification:** pytest, Vitest, GitHub Actions, source-contract checks, browser QA, documented limitations, and human approval for consequential actions.
+
+These are primarily **prototypes and research systems**, not claims of deployed customer products, commercial results, or production certification. Some use AI-assisted development. Test results and implementation evidence are described project by project, and planned features are separated from working code.
+
+**[Open the full portfolio index](https://github.com/aspher1/vibe-coding-portfolio)**
