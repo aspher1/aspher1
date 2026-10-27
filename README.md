@@ -1,4 +1,4 @@
-<sub>SOFTWARE ENGINEERING  /  PRODUCT SYSTEMS  /  AUTOMATION</sub>
+![Build. Verify. Refine. Software engineering systems, interfaces, and automation.](assets/engineering-header.svg)
 
 # Randy Kawka
 
