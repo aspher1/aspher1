@@ -1,58 +1,111 @@
+<sub>SOFTWARE ENGINEERING  /  PRODUCT SYSTEMS  /  AUTOMATION</sub>
+
 # Randy Kawka
 
-**Full-stack software projects | TypeScript, React, Python, FastAPI | Automation, creative tools & applied AI | Open to software engineering roles**
+**Interfaces that make complex work understandable. Systems whose behavior can be inspected.**
 
-I build practical software systems around typed workflows, reliable state, human review, and clear failure handling. My projects range from full-stack applications and browser extensions to research engines and creative desktop tools. I use AI-assisted development where useful and document what the code actually proves.
+I build React and TypeScript applications, Python research tools, browser extensions, and creative desktop software. Across these projects, I focus on clear state transitions, validated inputs, reviewable actions, and tests that make failure cases visible.
 
-**Seeking junior software engineering, full-stack, frontend, and applied automation opportunities.**
+**Open to:** junior software engineering · frontend and product engineering · full-stack development · workflow automation
 
-**Role-specific project evidence:** [Frontend / product](https://github.com/aspher1/software-engineering-portfolio/blob/main/jobs/frontend-software-engineer.md) · [Full-stack / automation](https://github.com/aspher1/software-engineering-portfolio/blob/main/jobs/full-stack-automation.md) · [Python / reliability](https://github.com/aspher1/software-engineering-portfolio/blob/main/jobs/python-reliability.md) · [Technical evidence matrix](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/technical-evidence-matrix.md)
+[**Engineering portfolio**](https://github.com/aspher1/software-engineering-portfolio) · [Technical evidence matrix](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/technical-evidence-matrix.md) · [Public code and tests](#public-code--tests) · [Résumé project statements](https://github.com/aspher1/software-engineering-portfolio/blob/main/resume/engineering-project-bullets.md)
 
-**[Explore the engineering portfolio](https://github.com/aspher1/software-engineering-portfolio)** · [Public source projects](#public-source-projects) · [Private-source case studies](#private-source-engineering-case-studies) · [Engineering approach](#engineering-approach)
+---
 
-## Where to start
+## Find the work relevant to your role
 
-- **Review application architecture and tests:** [PortalOps AI](https://github.com/aspher1/Portalops) ([architecture](https://github.com/aspher1/Portalops/blob/main/docs/ARCHITECTURE.md) · [CI workflow](https://github.com/aspher1/Portalops/actions/workflows/ci.yml)).
-- **Review Python state and reliability:** [rhbot](https://github.com/aspher1/robinhood-bot) ([architecture](https://github.com/aspher1/robinhood-bot/blob/main/ARCHITECTURE.md) · [CI workflow](https://github.com/aspher1/robinhood-bot/actions/workflows/ci.yml)).
-- **Review interface and desktop engineering:** [Rainlight animation editor case study](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/anime-director-studio.md), with a real local screenshot and a candid verification summary.
+- **[Frontend / product engineering](https://github.com/aspher1/software-engineering-portfolio/blob/main/jobs/frontend-software-engineer.md)** · React interfaces, browser extensions, desktop editing tools, stateful UI.
+- **[Full-stack / automation engineering](https://github.com/aspher1/software-engineering-portfolio/blob/main/jobs/full-stack-automation.md)** · Next.js APIs, validation, approval gates, workflow and data boundaries.
+- **[Python / reliability engineering](https://github.com/aspher1/software-engineering-portfolio/blob/main/jobs/python-reliability.md)** · SQLite, risk rules, deterministic simulation, error handling and pytest.
 
-## Development interface previews
+## Selected interfaces
 
-Local application captures linked to their public technical case studies.
+<sub>REAL LOCAL DEVELOPMENT CAPTURES  /  CLICK TO REVIEW THE ENGINEERING CASE STUDY</sub>
 
-| Captured interface | Engineering context |
-| --- | --- |
-| [![Acre agent workspace showing illustrative sample buyer data](https://raw.githubusercontent.com/aspher1/software-engineering-portfolio/main/assets/previews/acre-workspace-preview.png)](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/acre.md) | **[Acre: Real-Estate Intelligence](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/acre.md)**. Next.js, TypeScript, property research and buyer workflows. Workspace preview with sample buyer data; not a live customer record. |
-| [![QuarterPulse research dashboard with a synthetic market feed and paper simulation](https://raw.githubusercontent.com/aspher1/software-engineering-portfolio/main/assets/previews/quarter-synthetic-workspace.png)](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/quarterpulse.md) | **[QuarterPulse: Research Engine](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/quarterpulse.md)**. Python market research and simulation. Captured synthetic feed and paper-only mode; no live trades or verified returns. |
-| [![Rainlight v8 local animation editor showing imported scene art, panels and a frame-based timeline](https://raw.githubusercontent.com/aspher1/software-engineering-portfolio/main/assets/anime-director-studio-rainlight-v8.png)](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/anime-director-studio.md) | **[Anime Director Studio / Rainlight v8](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/anime-director-studio.md)**. React, TypeScript, Electron and timeline tooling. The scene artwork was **imported into the editor**, not generated by it. Active local prototype. |
+### 01 / Acre
 
-These screenshots demonstrate local interface work, not deployed services, production integrations or customer adoption.
+**Real-estate decision intelligence** · Next.js · TypeScript · React
 
-## Public source projects
+<a href="https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/acre.md"><img src="https://raw.githubusercontent.com/aspher1/software-engineering-portfolio/main/assets/previews/acre-workspace-preview.png" alt="Acre agent workspace displaying illustrative sample buyer data and property research panels" width="760"></a>
 
-- **[PortalOps AI](https://github.com/aspher1/Portalops)** · Next.js, TypeScript, Zod, Vitest. Human-supervised workflow prototype with approval gates, synthetic payer portals, tenant-aware boundaries, and execution evidence.
-- **[CreditAsk](https://github.com/aspher1/Credit-task)** · Next.js, React, TypeScript, Auth.js, Stripe test mode. Guided intake, reviewable letter drafts, and test-payment workflow. [Inspect tests](https://github.com/aspher1/Credit-task/tree/main/tests).
-- **[rhbot](https://github.com/aspher1/robinhood-bot)** · Python, SQLite, pytest. Paper-only BTC/ETH strategy comparison with risk rules, modeled fees, audit records, and offline checks.
-- **[Jarvis Chart HUD](https://github.com/aspher1/Jarvis-main)** · JavaScript, Chrome Manifest V3, Shadow DOM. Browser overlay experiment with host adapters, input validation, and mock-data fallbacks. [Inspect validation](https://github.com/aspher1/Jarvis-main/tree/main/tests).
+A source-aware property discovery and buyer-workflow prototype with deterministic cost modeling, comparison tools, and clear unknown-data states. The screenshot shows **sample buyers** in a local workspace.
 
-## Private-source engineering case studies
+[Architecture, limitations and second UI capture](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/acre.md)
 
-These **public writeups** explain architecture, implementation evidence, open risks, and verification status. They can be read without access to private repositories.
+### 02 / Anime Director Studio: Rainlight
 
-- **[Anime Director Studio / Rainlight v8](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/anime-director-studio.md)** · React, TypeScript, Vite, Electron. Frame-based animation editing, exposure controls, and production review. Includes a local application screenshot and recorded checks.
-- **[Acre: Real Estate Decision Intelligence](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/acre.md)** · Next.js, TypeScript, RentCast, FHFA, Clerk, Drizzle. Provider-attributed property search, buyer compare and cost logic, and buyer/seller workspace prototypes.
-- **[QuarterPulse Research Engine](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/quarterpulse.md)** · Python. Prediction-market discovery, paper execution, replay, and risk/accounting research. No verified live trading results.
-- **[LoopLab Video Studio](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/looplab.md)** · React, TypeScript, Cloudflare D1/R2. Asynchronous media-production workflow and provider orchestration; end-to-end paid-provider verification is pending.
-- **More architecture studies:** [Matchup Lab](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/matchup-lab.md) (probability/simulation) and [RelayOps](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/relayops.md) (multi-tenant workflow and data access).
+**Frame-based animation production workbench** · React · TypeScript · Electron
 
-**Access for interviewers:** The case studies are public; the underlying source for these projects is private or undergoing review. I can discuss implementation decisions, show sanitized artifacts, or arrange authorized code access or a walkthrough where available. Please use the contact details supplied with my job application.
+<a href="https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/anime-director-studio.md"><img src="https://raw.githubusercontent.com/aspher1/software-engineering-portfolio/main/assets/anime-director-studio-rainlight-v8.png" alt="Rainlight v8 local animation editor with program monitor, imported illustrated background, editing panels and timeline" width="760"></a>
 
-## Engineering approach
+A local editor prototype for scene organization, exposure timing and frame-level review. The scene artwork was **imported into the editor**, not generated by it. Creative assets and production outputs remain under review.
 
-- **Web and interfaces:** TypeScript, JavaScript, React, Next.js, Electron, browser extensions, responsive UI.
-- **Backends and data:** Python, API handlers, SQLite, PostgreSQL, typed schemas, provider integrations, explicit authorization boundaries.
-- **Verification:** pytest, Vitest, GitHub Actions, source-contract checks, browser QA, documented limitations, and human approval for consequential actions.
+[Timeline engineering and verification notes](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/anime-director-studio.md)
 
-These are primarily **prototypes and research systems**, not claims of deployed customer products, commercial results, or production certification. Some use AI-assisted development. Test results and implementation evidence are described project by project, and planned features are separated from working code.
+### 03 / QuarterPulse
 
-**[Open the full portfolio index](https://github.com/aspher1/software-engineering-portfolio)**
+**Prediction-market research workspace** · Python · simulation · replay
+
+<a href="https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/quarterpulse.md"><img src="https://raw.githubusercontent.com/aspher1/software-engineering-portfolio/main/assets/previews/quarter-synthetic-workspace.png" alt="QuarterPulse research dashboard explicitly showing synthetic market feed and paper simulation mode" width="760"></a>
+
+A research interface for market discovery, audit evidence and paper execution. This capture uses **fictional instruments and a synthetic feed**; it demonstrates neither live trading nor verified returns.
+
+[Research architecture and operating boundaries](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/quarterpulse.md)
+
+<sub>All three captures come from local prototypes. Screenshots are evidence of interface work, not production deployment, customer adoption or verified external integrations.</sub>
+
+---
+
+## Public code & tests
+
+<sub>REPRODUCIBLE REVIEW PATHS  /  OPEN THE IMPLEMENTATION, THEN ITS TESTS</sub>
+
+### PortalOps AI
+
+**Supervised automation and bounded workflow execution** · Next.js · TypeScript · Zod · Vitest
+
+Typed run states, human approval points, bounded retries and execution evidence, demonstrated with synthetic workflows. Database migrations illustrate tenant-aware access design; live payer portal integration is outside this prototype.
+
+[Source](https://github.com/aspher1/Portalops) · [Execution engine](https://github.com/aspher1/Portalops/blob/main/lib/execution.ts) · [Approval policy](https://github.com/aspher1/Portalops/blob/main/lib/policy.ts) · [Tests](https://github.com/aspher1/Portalops/blob/main/tests/execution.test.ts) · [CI](https://github.com/aspher1/Portalops/actions/workflows/ci.yml)
+
+### rhbot
+
+**Paper-only strategy research and operational safeguards** · Python · SQLite · pytest
+
+Simulated strategy accounts, quote freshness checks, hard risk limits and decision records. The code is inspectable as a research system; simulated results are not evidence of trading performance.
+
+[Source](https://github.com/aspher1/robinhood-bot) · [Risk rules](https://github.com/aspher1/robinhood-bot/blob/main/rhbot/risk.py) · [Safety tests](https://github.com/aspher1/robinhood-bot/blob/main/tests/test_safety.py) · [CI](https://github.com/aspher1/robinhood-bot/actions/workflows/ci.yml)
+
+### CreditAsk
+
+**Reviewable intake and document workflows** · Next.js · TypeScript · Auth.js · Stripe test mode
+
+Form and upload flows, scoped job access, human-reviewed draft output and test-payment paths. Storage and document extraction remain prototype-level.
+
+[Source](https://github.com/aspher1/Credit-task) · [Access controls](https://github.com/aspher1/Credit-task/blob/main/lib/job-access.ts) · [Regression tests](https://github.com/aspher1/Credit-task/blob/main/tests/job-access.test.ts) · [CI](https://github.com/aspher1/Credit-task/actions/workflows/ci.yml)
+
+### Jarvis Chart HUD
+
+**Browser interface isolation and graceful fallbacks** · JavaScript · Chrome Manifest V3 · Shadow DOM
+
+Host-specific chart adapters, validated display inputs and non-obstructive overlays. Data is mocked, and extension permissions need review before distribution.
+
+[Source](https://github.com/aspher1/Jarvis-main) · [Overlay code](https://github.com/aspher1/Jarvis-main/blob/main/content.js) · [Validation checks](https://github.com/aspher1/Jarvis-main/blob/main/tests/validate.mjs) · [CI](https://github.com/aspher1/Jarvis-main/actions/workflows/ci.yml)
+
+---
+
+## How I approach engineering
+
+**01  /  State before side effects.** I model explicit transitions and approval points so a workflow can explain what happened, what failed and what needs review.
+
+**02  /  Data with provenance.** Inputs, fallback values and unknowns should be distinguishable, especially in property and market-research applications.
+
+**03  /  Evidence that can be checked.** I link implementation files, authored tests and CI workflows. A passing check establishes the behavior it tested, not production readiness.
+
+I use AI-assisted development tools where useful and document implementation limits. These are primarily **prototypes and research projects**, with public source for the four code examples above and public technical case studies for private applications.
+
+**Additional architecture studies:** [LoopLab video workflows](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/looplab.md) · [RelayOps tenant-aware operations](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/relayops.md) · [Matchup Lab probability and simulation](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/matchup-lab.md)
+
+[**Explore all projects and evidence**](https://github.com/aspher1/software-engineering-portfolio) · [Frontend roles](https://github.com/aspher1/software-engineering-portfolio/blob/main/jobs/frontend-software-engineer.md) · [Full-stack roles](https://github.com/aspher1/software-engineering-portfolio/blob/main/jobs/full-stack-automation.md) · [Python roles](https://github.com/aspher1/software-engineering-portfolio/blob/main/jobs/python-reliability.md)
+
+<sub>For private-source walkthroughs, please use the contact details included with my job application.</sub>
