@@ -6,13 +6,13 @@ I build practical software systems around typed workflows, reliable state, human
 
 **Seeking junior software engineering, full-stack, frontend, and applied automation opportunities.**
 
-**[Explore the engineering portfolio](https://github.com/aspher1/vibe-coding-portfolio)** · [Public source projects](#public-source-projects) · [Private-source case studies](#private-source-engineering-case-studies) · [Engineering approach](#engineering-approach)
+**[Explore the engineering portfolio](https://github.com/aspher1/software-engineering-portfolio)** · [Public source projects](#public-source-projects) · [Private-source case studies](#private-source-engineering-case-studies) · [Engineering approach](#engineering-approach)
 
 ## Where to start
 
 - **Review application architecture and tests:** [PortalOps AI](https://github.com/aspher1/Portalops) ([architecture](https://github.com/aspher1/Portalops/blob/main/docs/ARCHITECTURE.md) · [CI workflow](https://github.com/aspher1/Portalops/actions/workflows/ci.yml)).
 - **Review Python state and reliability:** [rhbot](https://github.com/aspher1/robinhood-bot) ([architecture](https://github.com/aspher1/robinhood-bot/blob/main/ARCHITECTURE.md) · [CI workflow](https://github.com/aspher1/robinhood-bot/actions/workflows/ci.yml)).
-- **Review interface and desktop engineering:** [Rainlight animation editor case study](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/anime-director-studio.md), with a real local screenshot and a candid verification summary.
+- **Review interface and desktop engineering:** [Rainlight animation editor case study](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/anime-director-studio.md), with a real local screenshot and a candid verification summary.
 
 ## Public source projects
 
@@ -25,11 +25,11 @@ I build practical software systems around typed workflows, reliable state, human
 
 These **public writeups** explain architecture, implementation evidence, open risks, and verification status. They can be read without access to private repositories.
 
-- **[Anime Director Studio / Rainlight v8](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/anime-director-studio.md)** · React, TypeScript, Vite, Electron. Frame-based animation editing, exposure controls, and production review. Includes a local application screenshot and recorded checks.
-- **[Acre: Real Estate Decision Intelligence](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/acre.md)** · Next.js, TypeScript, RentCast, FHFA, Clerk, Drizzle. Provider-attributed property search, buyer compare and cost logic, and buyer/seller workspace prototypes.
-- **[QuarterPulse Research Engine](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/quarterpulse.md)** · Python. Prediction-market discovery, paper execution, replay, and risk/accounting research. No verified live trading results.
-- **[LoopLab Video Studio](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/looplab.md)** · React, TypeScript, Cloudflare D1/R2. Asynchronous media-production workflow and provider orchestration; end-to-end paid-provider verification is pending.
-- **More architecture studies:** [Matchup Lab](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/matchup-lab.md) (probability/simulation) and [RelayOps](https://github.com/aspher1/vibe-coding-portfolio/blob/main/projects/relayops.md) (multi-tenant workflow and data access).
+- **[Anime Director Studio / Rainlight v8](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/anime-director-studio.md)** · React, TypeScript, Vite, Electron. Frame-based animation editing, exposure controls, and production review. Includes a local application screenshot and recorded checks.
+- **[Acre: Real Estate Decision Intelligence](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/acre.md)** · Next.js, TypeScript, RentCast, FHFA, Clerk, Drizzle. Provider-attributed property search, buyer compare and cost logic, and buyer/seller workspace prototypes.
+- **[QuarterPulse Research Engine](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/quarterpulse.md)** · Python. Prediction-market discovery, paper execution, replay, and risk/accounting research. No verified live trading results.
+- **[LoopLab Video Studio](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/looplab.md)** · React, TypeScript, Cloudflare D1/R2. Asynchronous media-production workflow and provider orchestration; end-to-end paid-provider verification is pending.
+- **More architecture studies:** [Matchup Lab](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/matchup-lab.md) (probability/simulation) and [RelayOps](https://github.com/aspher1/software-engineering-portfolio/blob/main/projects/relayops.md) (multi-tenant workflow and data access).
 
 **Access for interviewers:** The case studies are public; the underlying source for these projects is private or undergoing review. I can discuss implementation decisions, show sanitized artifacts, or arrange authorized code access or a walkthrough where available. Please use the contact details supplied with my job application.
 
@@ -41,4 +41,4 @@ These **public writeups** explain architecture, implementation evidence, open ri
 
 These are primarily **prototypes and research systems**, not claims of deployed customer products, commercial results, or production certification. Some use AI-assisted development. Test results and implementation evidence are described project by project, and planned features are separated from working code.
 
-**[Open the full portfolio index](https://github.com/aspher1/vibe-coding-portfolio)**
+**[Open the full portfolio index](https://github.com/aspher1/software-engineering-portfolio)**
